@@ -1,109 +1,91 @@
 [
     {
         "image_name": "一輩子跟我一起組樂團嗎.jpg",
-        "image_url": "https://i.postimg.cc/YS5dtH36/image.jpg",
+        "image_url": "https://i.postimg.cc/BbxPMD0g/image.jpg",
         "simple_description": "燈邀請愛音組樂團",
         "multi_contextual_description": "燈向愛音發出組樂團的邀請，這句話是兩人關係發展的重要節點，也代表著新的開始，在粉絲間常被用來表達熱切的合作或結合意願。"
     },
     {
         "image_name": "又來了一個新人.jpg",
-        "image_url": "https://i.postimg.cc/wMHFsQn3/image.jpg",
+        "image_url": "https://i.postimg.cc/rFx7Nptw/image.jpg",
         "simple_description": "爽世看到新成員",
         "multi_contextual_description": "爽世面對樂團新成員的反應，暗示著她對團體構成的考量與預期，在粉絲間常用來形容面對新事物的出現，尤其是對於既有平衡可能產生影響的情況。"
     },
     {
-        "image_name": "也沒有啦.jpg",
-        "image_url": "https://i.postimg.cc/Wzn8mJP8/image.jpg",
-        "simple_description": "爽世否認",
-        "multi_contextual_description": "爽世用「也沒有啦」回應，表現出她口是心非或不願正面承認的態度，是她個性中的一個經典面向，常用來指涉不直接表達真實想法的情境。"
-    },
-    {
-        "image_name": "不要逃啦.jpg",
-        "image_url": "https://i.postimg.cc/QxfSH5mx/image.jpg",
-        "simple_description": "燈挽留愛音",
-        "multi_contextual_description": "燈追趕愛音並喊出「不要逃啦」，展現出她對愛音的重視和挽留的渴望，是角色互動中具有張力的一幕，常用來形容希望對方留下或面對現實的場景。"
-    },
-    {
         "image_name": "立希看手機.jpg",
-        "image_url": "https://i.postimg.cc/TYdCdQr4/image.jpg",
+        "image_url": "https://i.postimg.cc/NFhr6DWF/image.jpg",
         "simple_description": "立希查看手機",
         "multi_contextual_description": "立希專注地查看手機，可能是收到訊息或在尋找什麼，但以眼神透漏著傻眼的感覺，這個動作在粉絲間常被用於回覆他人的奇怪行為或是表達不理解。"
     },
     {
-        "image_name": "因為我很想要嘛.jpg",
-        "image_url": "https://i.postimg.cc/QdVm5tYg/image.jpg",
-        "simple_description": "愛音表達強烈意願",
-        "multi_contextual_description": "愛音說出「因為我很想要嘛」，直接表達了她的渴望和動機，展現了她直率的一面，常用來形容對某事抱有強烈願望的場景，常用於突然插入話題，想要加入討論的情境。"
-    },
-    {
         "image_name": "好可愛喔.jpg",
-        "image_url": "https://i.postimg.cc/6pS0hXFk/image.jpg",
+        "image_url": "https://i.postimg.cc/2jJ0JffL/image.jpg",
         "simple_description": "愛音稱讚可愛",
-        "multi_contextual_description": "愛音稱讚「好可愛喔」，通常是粉絲或劇中角色對其形象或行為的肯定，是常見的讚美詞，用來表達喜愛或欣賞，有時可以用於嘲諷他人的於喘行為，具有一定的反諷意味。"
+        "multi_contextual_description": "愛音稱讚「好可愛喔」。通常是粉絲或劇中角色對其形象或行為的肯定，是常見的讚美詞，用來表達喜愛或欣賞，有時可以用於嘲諷他人的於喘行為，具有一定的反諷意味。"
     },
     {
         "image_name": "好厲害.jpg",
-        "image_url": "https://i.postimg.cc/PqwM37jP/image.jpg",
+        "image_url": "https://i.postimg.cc/59vz4cCC/image.jpg",
         "simple_description": "燈稱讚他人厲害",
         "multi_contextual_description": "燈稱讚「好厲害」，這句話是用來表達對某人能力或表現的讚嘆，在粉絲間常用來表示對角色高光時刻的認可。"
     },
     {
         "image_name": "我也一樣.jpg",
-        "image_url": "https://i.postimg.cc/gJyHd6rp/image.jpg",
+        "image_url": "https://i.postimg.cc/Hsy61PpZ/image.jpg",
         "simple_description": "角色表達相同感受",
         "multi_contextual_description": "角色說出「我也一樣」，這句話表達了共鳴或相同的感受，在粉絲間常用來表示理解對方的心情或有著類似的經歷。"
     },
     {
         "image_name": "我不會再演奏春日影了.jpg",
-        "image_url": "https://i.postimg.cc/1X9cz5Nq/image.jpg",
+        "image_url": "https://i.postimg.cc/ncJDMd4w/image.jpg",
         "simple_description": "祥子說不再演奏春日影",
         "multi_contextual_description": "祥子宣告「我不會再演奏春日影了」，這句話是劇情中一個關鍵的轉折點，象徵著過去的決裂和新篇章的開始，在粉絲間常用來比喻與過去告別或劃清界線的決心。"
     },
     {
         "image_name": "我有啊.jpg",
-        "image_url": "https://i.postimg.cc/QdVm5tYg/image.jpg",
+        "image_url": "https://i.postimg.cc/ncGQmvTV/image.jpg",
         "simple_description": "角色表達有",
         "multi_contextual_description": "角色說出「我有啊」，直接且肯定地表達自己擁有或具備某物、某特質或某經驗，通常用於回應他人的詢問或質疑，展現出自信或理所當然的態度。"
     },
     {
         "image_name": "我沒有那麼厲害啦.jpg",
-        "image_url": "https://i.postimg.cc/j2P7b3jW/image.jpg",
+        "image_url": "https://i.postimg.cc/13WnCsLL/image.jpg",
         "simple_description": "角色謙虛否認",
         "multi_contextual_description": "角色說出「我沒有那麼厲害啦」，表現出謙虛或不好意思的態度，常用來回應他人的讚美，帶有一點點的害羞或自嘲意味。"
     },
     {
         "image_name": "我想應該不是.jpg",
-        "image_url": "https://i.postimg.cc/Cx27Q7fS/image.jpg",
+        "image_url": "https://i.postimg.cc/Dwf4P8Yr/image.jpg",
         "simple_description": "角色表達不確定否認",
         "multi_contextual_description": "角色說出「我想應該不是」，語氣中帶有推測和不確定性，但傾向於否認，常用於表達自己的判斷或猜測，而不是確切的答案。"
     },
     {
         "image_name": "我懂.jpg",
-        "image_url": "https://i.postimg.cc/BQc6fQ31/image.jpg",
+        "image_url": "https://i.postimg.cc/7LfCjj4b/image.jpg",
         "simple_description": "愛音表示理解",
         "multi_contextual_description": "愛音說出「我懂」，表示對對方話語或處境的理解與認同，常用於對話中表達共鳴，讓對方感受到被理解與支持。"
     },
     {
         "image_name": "每次想著想著就會感到很厭世.jpg",
-        "image_url": "https://i.postimg.cc/nrw1D7Q2/image.jpg",
+        "image_url": "https://i.postimg.cc/QMwBDSNm/image.jpg",
         "simple_description": "燈表達厭世感",
         "multi_contextual_description": "燈說出「每次想著想著就會感到很厭世」，表達了角色內心深處的疲憊與無力感，常用於形容對某些事情思考過多導致的負面情緒，帶有對現狀的無奈或消極情緒。"
     },
     {
         "image_name": "那真是可喜可賀.jpg",
-        "image_url": "https://i.postimg.cc/yYYmB5N4/image.jpg",
+        "image_url": "https://i.postimg.cc/26W1SvVD/image.jpg",
         "simple_description": "燈表達祝賀",
-        "multi_contextual_description": "燈說出「那真是可喜可賀」，帶有祝賀與祝福的意味，常用於對他人取得成就或好消息時表達高興與肯定，語氣較為正式且充滿正面能量。"
+        "multi_contextual_description": "燈說出「那真是可喜可賀」，帶有祝賀與祝福的意味，常用於對他人取得成就或好消息時表達高興與肯定，語氣較為正式且充滿正面能量，亦或是用來反諷或諷刺其遭遇。"
     },
     {
         "image_name": "來，開始溝通吧.jpg",
-        "image_url": "https://i.postimg.cc/mg2mXz1B/image.jpg",
+        "image_url": "https://i.postimg.cc/8cVjJ56r/image.jpg",
         "simple_description": "愛音提議溝通",
         "multi_contextual_description": "愛音說出「來，開始溝通吧」，這句話展現了她積極解決問題的態度，邀請對方進行開誠布公的對話，常用於打破僵局、促進理解的場合，帶有主動性和建設性。"
     },
     {
         "image_name": "妳不僅表裡不一，又滿口謊言.jpg",
-        "image_url": "https://i.postimg.cc/dV22J52z/image.jpg",
+        "image_url": "https://i.postimg.cc/GmnqLJtc/image.jpg",
         "simple_description": "愛音指責對方",
         "multi_contextual_description": "愛音說出「妳不僅表裡不一，又滿口謊言」，這句話語氣嚴厲，直接指責對方的虛偽和不誠實，常用於表達強烈的不滿和失望，帶有批判和質問的意味。"
     },
@@ -118,5 +100,11 @@
         "image_url": "https://i.postimg.cc/h49JF9k8/image.jpg",
         "simple_description": "燈質疑對方意圖",
         "multi_contextual_description": "燈說出「妳是來找我吵架的嗎」，這句話表達了角色對對方挑釁或不友好言行的不滿，常用於察覺到對方意圖不善時，帶有防備和質問的語氣。"
+    },
+    {
+        "image_name": "滿腦子都是想到自己呢.jpg",
+        "image_url": "https://i.postimg.cc/43JPtfpq/image.jpg",
+        "simple_description": "祥子不滿爽世的舔狗行為",
+        "multi_contextual_description": "祥子甩開跪倒在一旁的爽世，對於對方的無下限行為感到不滿。粉絲之間使用的意味如同字面上的意思。"
     }
 ]
